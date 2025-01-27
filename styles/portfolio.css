@@ -88,12 +88,12 @@ p {
   margin: 30px;
 }
 
-.content a {
+.get-in-touch {
   color: var(--branding-color);
 }
 
 .btn-branding {
-  background: var(--branding-color);
+  background-color: var(--branding-color);
   border-radius: 4px;
   color: white;
   font-size: 18px;
